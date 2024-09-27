@@ -1,3 +1,4 @@
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width='1000'>
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate Full-stack Developer from India, Uttarakhand</h3>
 
@@ -13,8 +14,9 @@
 
 - 📫 How to reach me **its.karanbohra556@gmail.com**
 
-- ⚡ Fun fact **LoVe To Listen Music while coding**
+- ⚡ Fun fact **LoVe To Listen Music while coding**<img src="https://user-images.githubusercontent.com/74038190/216120986-f2752ca9-fe82-4aa3-befe-0a58db010d85.png" alt="Beaming Face with Smiling Eyes" width="50" />
 
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width='50'>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/karan bohra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karan bohra" height="30" width="40" /></a>
