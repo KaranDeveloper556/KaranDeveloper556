@@ -1,4 +1,4 @@
-<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" width='1000'>
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="[https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif](https://i.pinimg.com/originals/82/8b/a6/828ba6d3046d5e816d8b0fe7f184c853.gif)" width='1000'>
 <h1 align="center">Hi 👋, I'm Karan</h1>
 <h3 align="center">A passionate Full-stack Developer from India, Uttarakhand</h3>
 
